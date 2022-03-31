@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/KodeCamp-Stage-1-Project/static/css/main.e72402c3.css",
+    "main.js": "/KodeCamp-Stage-1-Project/static/js/main.a3dd4b08.js",
+    "static/js/787.1f95ceec.chunk.js": "/KodeCamp-Stage-1-Project/static/js/787.1f95ceec.chunk.js",
+    "index.html": "/KodeCamp-Stage-1-Project/index.html",
+    "main.e72402c3.css.map": "/KodeCamp-Stage-1-Project/static/css/main.e72402c3.css.map",
+    "main.a3dd4b08.js.map": "/KodeCamp-Stage-1-Project/static/js/main.a3dd4b08.js.map",
+    "787.1f95ceec.chunk.js.map": "/KodeCamp-Stage-1-Project/static/js/787.1f95ceec.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e72402c3.css",
+    "static/js/main.a3dd4b08.js"
+  ]
+}
