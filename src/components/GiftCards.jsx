@@ -7,10 +7,10 @@ const GiftCards = () => {
   const [ cards ] = useState(allGiftCards);
 
   return (
-    <div className=" grid grid-cols-1 md:grid-cols-2 px-12 text-green-800 gap-4 ">
+    <div className=" grid grid-cols-1 md:grid-cols-2 min-w-[90%] px-12 text-green-800 gap-8 ">
       {
         cards.map((card) => (
-          <div className=" mb-4 min-w-0 bg-green-400 rounded-md max-w-sm py-4 px-8 shadow-md shadow-black/50 " key={card.id} >
+          <div className=" mx-auto mb-4 w-full bg-green-400 rounded-md max-w-sm py-4 px-8 shadow-md shadow-black/50 " key={card.id} >
 
             <div className=" text-xl font-semibold text-green-800  ">{card.title}</div>
 
