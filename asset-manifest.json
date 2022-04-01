@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/KodeCamp-Stage-1-Project/static/css/main.0bbe48dc.css",
-    "main.js": "/KodeCamp-Stage-1-Project/static/js/main.d1fd9a56.js",
+    "main.css": "/KodeCamp-Stage-1-Project/static/css/main.a212567e.css",
+    "main.js": "/KodeCamp-Stage-1-Project/static/js/main.bd0bbaeb.js",
     "static/js/787.1f95ceec.chunk.js": "/KodeCamp-Stage-1-Project/static/js/787.1f95ceec.chunk.js",
     "index.html": "/KodeCamp-Stage-1-Project/index.html",
-    "main.0bbe48dc.css.map": "/KodeCamp-Stage-1-Project/static/css/main.0bbe48dc.css.map",
-    "main.d1fd9a56.js.map": "/KodeCamp-Stage-1-Project/static/js/main.d1fd9a56.js.map",
+    "main.a212567e.css.map": "/KodeCamp-Stage-1-Project/static/css/main.a212567e.css.map",
+    "main.bd0bbaeb.js.map": "/KodeCamp-Stage-1-Project/static/js/main.bd0bbaeb.js.map",
     "787.1f95ceec.chunk.js.map": "/KodeCamp-Stage-1-Project/static/js/787.1f95ceec.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.0bbe48dc.css",
-    "static/js/main.d1fd9a56.js"
+    "static/css/main.a212567e.css",
+    "static/js/main.bd0bbaeb.js"
   ]
 }
