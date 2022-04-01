@@ -10,7 +10,7 @@ const GiftCards = () => {
     <div className=" grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 2xl:grid-cols-4 w-full px-12  gap-8 ">
       {
         cards.map((card) => (
-          <div className=" mx-auto mb-4 w-full bg-[#E8D9F3] hover:bg-[#DEBEF4] rounded-md max-w-sm py-4 px-8 shadow-[0px_2px_15px_0px] hover:shadow-[0px_2px_25px_1px] hover:shadow-black/30 shadow-black/25 transition-all ease-linear duration-400 " key={card.id} >
+          <div className=" mx-auto mb-4 w-full bg-[#E8D9F3] hover:bg-[#DEBEF4] rounded-md max-w-sm py-4 px-8 shadow-[0px_1px_10px_0px] hover:shadow-[0px_2px_20px_1px] hover:shadow-black/20 shadow-black/10 transition-all ease-linear duration-400 " key={card.id} >
 
             <div className=" text-2xl font-semibold text-[#76568A]  ">{card.title}</div>
 
