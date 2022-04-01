@@ -12,7 +12,7 @@ const GiftCards = () => {
         cards.map((card) => (
           <div className=" mx-auto mb-4 w-full bg-[#E8D9F3] hover:bg-[#DEBEF4] rounded-md max-w-sm py-4 px-8 shadow-[0px_1px_10px_0px] hover:shadow-[0px_2px_20px_1px] hover:shadow-black/20 shadow-black/10 transition-all ease-linear duration-400 " key={card.id} >
 
-            <div className=" text-2xl font-semibold text-[#76568A]  ">{card.title}</div>
+            <div className=" text-3xl font-semibold text-[#76568A]  ">{card.title}</div>
 
             <div className=" py-4 text-[#8D6F95] ">
 
